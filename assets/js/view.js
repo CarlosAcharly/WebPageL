@@ -32,6 +32,7 @@ class View {
             </div>
         `).join('');
     }
+    
 
     bindContactForm(handler) {
         this.contactForm.addEventListener('submit', async (event) => {
