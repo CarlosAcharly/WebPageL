@@ -43,37 +43,37 @@ class Model {
             {
                 id: 1,
                 title: "Estructura para Nave Industrial",
-                image: "project1.jpg",
+                image: "Mecanica.png",
                 category: "Industrial"
             },
             {
                 id: 2,
                 title: "Barandales Residenciales",
-                image: "project2.jpg",
+                image: "Electrica.png",
                 category: "Residencial"
             },
             {
                 id: 3,
                 title: "Sistema de Tuberías",
-                image: "project3.jpg",
+                image: "Manufactura.png",
                 category: "Industrial"
             },
             {
                 id: 4,
                 title: "Escalera Metálica",
-                image: "project4.jpg",
+                image: "grua.png",
                 category: "Comercial"
             },
             {
                 id: 5,
                 title: "Estructura para Techo",
-                image: "project5.jpg",
+                image: "Mecanica.png",
                 category: "Residencial"
             },
             {
                 id: 6,
                 title: "Puerta de Seguridad",
-                image: "project6.jpg",
+                image: "Renta.png",
                 category: "Comercial"
             }
         ];
